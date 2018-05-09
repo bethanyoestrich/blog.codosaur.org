@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World!"
 date:   2018-05-09 10:22:24 -0400
-categories: - development
+categories: -development
 ---
 
 Look at this! I've successfully created a blog using Jekyll!
