@@ -23,6 +23,7 @@ github_username:  bethanyoestrich
 
 # Build settings
 markdown: kramdown
+permalink: /:year/:month/:title
 theme: minima
 plugins:
   - jekyll-feed
